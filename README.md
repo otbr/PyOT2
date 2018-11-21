@@ -4,7 +4,7 @@ PyOT2 intends to be a MMO game server framework written primarily in and for Pyt
 ### Development, status & goals
 PyOT2 is currently in early development.
 It was started in mid August of 2018 and is only being developed by one person currently.
-The actual development and takes place on and source code resides in the developer's personal computer.
+The actual development takes place on and source code resides in the developer's own personal computer.
 
 Currently no source code has been released.
 Chunks of source code will be released in the /release directory in exchange for code contributions.
