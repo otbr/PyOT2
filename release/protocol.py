@@ -1,4 +1,4 @@
-def parseLookAt(net):
+def parseLookAt(net): # this is a demo to illustrate how /release works
 	x = net.getShort()
 	y = net.getShort()
 	z = net.getByte()

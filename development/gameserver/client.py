@@ -1,3 +1,5 @@
+# parse original client files
+
 def DAT_Parse(filepath):
 	with open(filepath, 'rb') as fh:
 		pass

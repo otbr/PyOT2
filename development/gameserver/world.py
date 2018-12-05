@@ -1,8 +1,4 @@
+# parse OTBM file in pure-python (no external modules; checkout /doc/net.py for available parsing methods)
 def OTBM_Parse(filepath):
 	with open(filepath, 'rb') as fh:
-		pass
-
-# already made the reading/parsing 90% through, just missing the parsing of recursive containers
-def SEC_Parse(filepath):
-	with open(filepath, 'r') as fh:
 		pass
